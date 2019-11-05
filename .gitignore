@@ -7,6 +7,7 @@
 *.asv
 
 # OSX / *nix default autosave extension
+*.m~
 
 # MATLAB Version Model Backup
 *.slx.r20*
@@ -31,15 +32,3 @@ octave-workspace
 
 # Simulink autosave extension
 .autosave
-*.rsp
-*.mk
-*.h
-*.c
-*.bat
-*.mat
-*.tmw
-*.dll
-*.exe
-*.txt
-*.dmr
-*.obj
