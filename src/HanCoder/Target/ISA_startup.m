@@ -4,6 +4,8 @@ V_vec = 1 % Vehicle speed in km/h
 %% Output signals
 PWM_motor = 0.6 % PWM signal.
 %% Defining vehicle messages
-a = hex2dec (["#""#""#"])
+% a = hex2dec (["#""#""#"])
 %% Defining maximum speed
-MaxSpeed = '
+% MaxSpeed
+%% Hextest
+Hex_value = uint8('F')
