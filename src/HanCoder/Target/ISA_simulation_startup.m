@@ -19,8 +19,3 @@ ID727_Byte7 = 0 % eighth byte value in dec
 Error_detection = -1
 %% Output signals
 PWM_motor = 0.6 % PWM signal.
-%% Defining vehicle messages
-% a = hex2dec (["#""#""#"])
-%% Defining maximum speed
-% MaxSpeed
-
