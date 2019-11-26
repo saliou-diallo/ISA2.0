@@ -18,4 +18,4 @@ ID727_Byte6 = 0 % seventh byte value in dec
 ID727_Byte7 = 0 % eighth byte value in dec
 Error_detection = -1
 %% Output signals
-PWM_motor = 0.6 % PWM signal.
+PWM_motor = 0.6 % PWM signal
